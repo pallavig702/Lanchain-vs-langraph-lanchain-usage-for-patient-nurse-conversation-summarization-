@@ -1,0 +1,68 @@
+SPEAKER_01 (Nurse): All right, the recording has begun.
+SPEAKER_01 (Nurse): So how are you today, Alexa?
+SPEAKER_00 (Patient): I'm doing well, how are you?
+SPEAKER_00 (Patient): I'm good, thank you.
+SPEAKER_01 (Nurse): Yeah, so thank you again for participating in this research study.
+SPEAKER_01 (Nurse): So I'm going to ask you a brief set of questions that should not last more than 10 minutes.
+SPEAKER_00 (Patient): These questions are solely for research purposes and if there are any issues, it's recommended
+SPEAKER_01 (Nurse): that you follow up with your clinician.
+SPEAKER_01 (Nurse): So to start, can you describe how you've been feeling lately?
+SPEAKER_00 (Patient): I've been in, the pain has been more manageable these past couple days and I've been able
+SPEAKER_00 (Patient): to sleep better.
+SPEAKER_00 (Patient): The pain wouldn't let me sleep.
+SPEAKER_00 (Patient): That's good.
+SPEAKER_00 (Patient): That's good.
+SPEAKER_01 (Nurse): And can you describe any changes in your health overall in the past few days?
+SPEAKER_00 (Patient): It's been pretty, there hasn't been any major changes.
+SPEAKER_00 (Patient): Just that night I get like hot flashes, that's it.
+SPEAKER_00 (Patient): Gotcha, gotcha.
+SPEAKER_01 (Nurse): And yeah, and you kind of mentioned this, but just to ask again, so what symptoms have
+SPEAKER_01 (Nurse): been bothering you lately?
+SPEAKER_00 (Patient): It's just been, I've been getting really hot at night and it's like really frustrating
+SPEAKER_00 (Patient): and then when I get really, when there's a lot of pain, I get shortness of breath from
+SPEAKER_00 (Patient): time.
+SPEAKER_01 (Nurse): Gotcha.
+SPEAKER_01 (Nurse): And is there something that you've found that's been able to help with those things or not
+SPEAKER_01 (Nurse): really?
+SPEAKER_01 (Nurse): Not really, no.
+SPEAKER_01 (Nurse): Gotcha.
+SPEAKER_01 (Nurse): Okay.
+SPEAKER_01 (Nurse): All right.
+SPEAKER_01 (Nurse): Well, those are really all of the questions that I have listed here.
+SPEAKER_01 (Nurse): I know this was a very brief phone call, but was there anything else you wanted to share
+SPEAKER_01 (Nurse): or talk about in relation to how you've been feeling or your health generally?
+SPEAKER_00 (Patient): No, not really.
+SPEAKER_00 (Patient): Okay, all right.
+SPEAKER_01 (Nurse): Well, thank you for your time.
+SPEAKER_01 (Nurse): We will speak again five days from now, which is, let's see, one, two, three, four, five.
+SPEAKER_01 (Nurse): Okay.
+SPEAKER_01 (Nurse): So five days from now is a holiday, so we'll either, I'll call you back on Tuesday or Thursday.
+SPEAKER_01 (Nurse): Does that work okay?
+SPEAKER_00 (Patient): Yeah.
+SPEAKER_00 (Patient): Okay.
+SPEAKER_01 (Nurse): And what's a good time to call you on either of those days?
+SPEAKER_01 (Nurse): Around like this time, like noon.
+SPEAKER_01 (Nurse): Around noon, okay.
+SPEAKER_01 (Nurse): Got it.
+SPEAKER_01 (Nurse): Yes.
+SPEAKER_01 (Nurse): All right.
+SPEAKER_00 (Patient): Well, thank you again for participating, and I will talk to you.
+SPEAKER_01 (Nurse): Actually, hold on.
+SPEAKER_01 (Nurse): Is there a day I could come by next week very briefly to do the conform?
+SPEAKER_01 (Nurse): Do the conform?
+SPEAKER_00 (Patient): I have been, the nurse is coming on Monday, the physical therapist is coming on Tuesday.
+SPEAKER_00 (Patient): I'm honestly going to come any day of the week.
+SPEAKER_00 (Patient): It doesn't really matter.
+SPEAKER_00 (Patient): Okay.
+SPEAKER_01 (Nurse): I'll call you sometime early next week.
+SPEAKER_01 (Nurse): I'm already home.
+SPEAKER_01 (Nurse): Gotcha.
+SPEAKER_01 (Nurse): I'll call you sometime early next week, and we can take a more specific day in time.
+SPEAKER_01 (Nurse): Okay.
+SPEAKER_01 (Nurse): All right, sounds good.
+SPEAKER_01 (Nurse): Well, thank you so much again.
+SPEAKER_01 (Nurse): I hope you have a great weekend.
+UNKNOWN (Patient): Thank you, everyone.
+SPEAKER_00 (Patient): Bye-bye.
+SPEAKER_00 (Patient): Thanks.
+SPEAKER_00 (Patient): Bye.
