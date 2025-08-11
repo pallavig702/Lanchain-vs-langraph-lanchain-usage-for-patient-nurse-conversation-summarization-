@@ -8,7 +8,7 @@
 ### Step 1: Preprocessing:
 
 ### Step 2: Langraph build on top of langchain: 
-**Run** python Langchain_Langraph_Summarization.py -f InputProcessedTranscriptWithRoles.txt
+#### Run: **python Langchain_Langraph_Summarization.py -f InputProcessedTranscriptWithRoles.txt**
 * LangGraph = the orchestrator.
     * We use StateGraph, START, END to wire nodes into a graph (Problems → Observations → … → SOAP → Omaha → Finalize).
 * LangChain = the building blocks inside each node.
