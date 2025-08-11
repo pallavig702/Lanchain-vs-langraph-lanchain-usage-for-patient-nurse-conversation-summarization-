@@ -7,7 +7,7 @@
 
 ### Step 1: Preprocessing:
 
-### Step 2: Langraph build on top of langchain: 
+### Step 2: Langraph build on top of langchain: python InputProcessedTranscriptWithRoles.txt
 * LangGraph = the orchestrator.
     * We use StateGraph, START, END to wire nodes into a graph (Problems → Observations → … → SOAP → Omaha → Finalize).
 * LangChain = the building blocks inside each node.
